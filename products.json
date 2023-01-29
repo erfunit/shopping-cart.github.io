@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title":"ایرپاد پرو",
+        "price": 89,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpg"} } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "آیفون 14 پرومکس",
+        "price": 29,
+        "image": { "fields": { "file": { "url":"./images/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "مک بوک m1 پرو",
+        "price": 79,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "اپل واچ سری 8",
+        "price": 99,
+        "image": { "fields": { "file": { "url": "./images/product-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "عینک بلو کنترل",
+        "price": 49,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "مک مینی m1",
+        "price": 59,
+        "image": { "fields": { "file": { "url": "./images/product-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "سامسونگ s22 ultra",
+        "price": 99,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "گلگسی بادز لایو",
+        "price": 49,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpg" } } }
+      }
+    }
+  ]
+}
